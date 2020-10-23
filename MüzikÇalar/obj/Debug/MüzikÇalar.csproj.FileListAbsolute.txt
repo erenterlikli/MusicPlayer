@@ -1,0 +1,15 @@
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\bin\Debug\MüzikÇalar.exe.config
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\bin\Debug\MüzikÇalar.exe
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\bin\Debug\MüzikÇalar.pdb
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csproj.ResolveComReference.cache
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.Form1.resources
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.Properties.Resources.resources
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.exe
+C:\Users\Eren\source\repos\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.pdb
